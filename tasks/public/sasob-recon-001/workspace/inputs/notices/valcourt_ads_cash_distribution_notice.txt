@@ -1,0 +1,16 @@
+DEPOSITARY NOTICE — CASH DISTRIBUTION
+Issuer: Valcourt Energie SA (France)   American Depositary Shares, ISIN USZYH2328430 (1 ADS = 1 ordinary share)
+Depositary: Kestrel Depositary Trust Company
+
+Ordinary share dividend: EUR 0.53 per share, converted at 1.177358 USD/EUR
+Gross cash distribution per ADS: USD 0.6240
+ADS ex-date: 2026-09-03   ADS record date: 2026-09-03   Payment date: 2026-09-15
+
+French withholding tax: French dividend withholding tax will be deducted at the statutory rate of 25%
+unless the Depositary has received, before the record date, valid relief-at-source documentation
+(Form 5000 with certified attestation of residence) through the holder's custodian, in which case the
+treaty rate applicable to the holder (e.g. 15% for eligible US residents) will be applied at source.
+Holders taxed at 25% may file for a refund of the excess through the reclaim procedure (Form 5001).
+
+Depositary fees: In accordance with the Deposit Agreement, ADS holders will be charged a cash
+distribution fee of US$0.02 per ADS, deducted from the distribution.

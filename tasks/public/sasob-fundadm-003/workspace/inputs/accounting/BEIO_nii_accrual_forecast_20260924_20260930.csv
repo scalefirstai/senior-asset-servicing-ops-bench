@@ -1,0 +1,6 @@
+fund_code,forecast_date,period_start,period_end,line,amount_usd,source
+BEIO,2026-09-24,2026-09-24,2026-09-30,dividend_income_accruals (ex-dates in window),298215,Corporate actions calendar
+BEIO,2026-09-24,2026-09-24,2026-09-30,interest_income_accruals,51400,Accrual schedule
+BEIO,2026-09-24,2026-09-24,2026-09-30,"expense_accruals (advisory, admin, custody, leverage interest)",-83705,Expense budget
+BEIO,2026-09-24,2026-09-24,2026-09-30,net_investment_income_forecast,265910,
+BEIO,2026-09-24,2026-09-24,2026-09-30,realized_gains_forecast,n/a,Not forecast (see procedures 4.3)

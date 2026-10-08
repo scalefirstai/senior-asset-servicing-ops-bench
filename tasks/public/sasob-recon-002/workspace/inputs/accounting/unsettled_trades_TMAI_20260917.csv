@@ -1,0 +1,4 @@
+fund_code,trade_ref,side,security_id,security_name,trade_date,settle_date,quantity,price,net_amount,broker,status
+TMAI,EQ-260917-0412,BUY,USLPV8NW1399,Brindlewood Industrial Corp,2026-09-17,2026-09-18,20000,52.04,1041224.60,Ferrand Lowe & Co,OPEN
+TMAI,EQ-260916-0388,SELL,US83F34E5057,Keel Harbor Bancorp,2026-09-16,2026-09-17,40000,41.20,1647932.15,Ferrand Lowe & Co,SETTLED
+TMAI,FI-260915-0091,BUY,USNPJRHX5971,Ribbonwood Health Systems 6.00% 15Jan2033,2026-09-15,2026-09-16,500000,102.050,515333.33,Coverdale Securities LLC,SETTLED

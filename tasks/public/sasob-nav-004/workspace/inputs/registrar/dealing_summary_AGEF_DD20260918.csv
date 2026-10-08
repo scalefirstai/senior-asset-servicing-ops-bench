@@ -1,0 +1,4 @@
+sub_fund,dealing_day,share_class,class_ccy,order_count,subscriptions_class_ccy,redemptions_class_ccy,cut_off_check,sent_to_hedging_agent
+AGEF,2026-09-18,I-USD-Acc,USD,3,2000000.00,0.00,ALL BEFORE 12:00,N/A
+AGEF,2026-09-18,A-USD-Acc,USD,14,312400.00,-850000.00,ALL BEFORE 12:00,N/A
+AGEF,2026-09-18,I-EUR-H-Acc,EUR,2,250000.00,-4500000.00,ALL BEFORE 12:00,2026-09-21 08:05 CEST (batch file delayed - RTA interface incident INC-7730)

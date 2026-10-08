@@ -1,0 +1,5 @@
+fund_code,fund_name,share_class,cusip,nav_date,total_net_assets_usd,shares_outstanding,nav_per_share,nav_status,released_ts_et
+CGEF,Corvane Global Equity Fund,I,3W2CN2075,2026-09-15,819817467.06,26402118.664,31.05,FINAL,2026-09-15 18:27
+CGEF,Corvane Global Equity Fund,I,3W2CN2075,2026-09-16,824804317.85,26411402.117,31.23,FINAL,2026-09-16 18:33
+CGEF,Corvane Global Equity Fund,I,3W2CN2075,2026-09-17,830112220.50,26418773.905,31.42,FINAL,2026-09-17 18:29
+CGEF,Corvane Global Equity Fund,I,3W2CN2075,2026-09-18,856047840.83,26595743.702,32.19,FINAL,2026-09-18 18:41

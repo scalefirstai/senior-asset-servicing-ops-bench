@@ -1,0 +1,5 @@
+fund_code,override_id,line_ref,security,requested_by,request_date,vendor_bucket,requested_bucket,rationale,lrm_committee_decision,decision_date,effective_from,notes
+BGOF,OVR-2026-011,L15,Kilnworth Holdings Term Loan (private),Program Administrator,2026-02-03,Not modelled,Illiquid,Bilateral private loan; lender consent; no dealer market,APPROVED,2026-02-10,2026-02-10,Standing Program classification (P3.5)
+BGOF,OVR-2026-014,L17,Amberlane Therapeutics PIPE common,Program Administrator,2026-04-06,Not modelled,Illiquid,Contractual lock-up to 2027-03-15,APPROVED,2026-04-13,2026-04-13,
+BGOF,OVR-2026-019,L19,Dellbrook Foods Term Loan B,Portfolio Manager (R. Castell),2026-08-12,Less Liquid,Illiquid,Thin dealer interest after Q2 earnings miss,REJECTED,2026-08-20,,Committee: two-dealer quotes and 2026-08 trade prints support sale within 7 days; settlement >7 days -> Less Liquid per P3.7. Revert to vendor bucket.
+BGOF,OVR-2026-021,L12,Ellery Outdoor Brands common,Portfolio Manager (R. Castell),2026-08-25,Moderately Liquid,Highly Liquid,Position within 3 days of ADV at 20% participation,PENDING,,,Not yet considered; vendor bucket applies until approved

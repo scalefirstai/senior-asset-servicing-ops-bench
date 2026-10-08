@@ -1,0 +1,4 @@
+- Not every branch records its timestamps in Eastern Time.
+- "Before the close" and "at the close" are different things.
+- Look at when each file reached the transfer agent, not only at the trade date on it.
+- A change to an order after the close is not always all-or-nothing.

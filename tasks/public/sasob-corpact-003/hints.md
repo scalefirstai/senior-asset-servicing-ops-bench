@@ -1,0 +1,4 @@
+- In the US, a regular dividend now has the ex-date on the record date. Work out entitlement from the trade date, not from when the trade settled.
+- A trade that settled early can create a claim against you.
+- Some claims are generated automatically and some are not. Look at where each trade settled.
+- The Dutch claim rate is not the same as Fenwick's own Dutch withholding rate.

@@ -1,0 +1,5 @@
+fund_code,estimate_date,fiscal_year,component,estimated_per_share,basis,prepared_for,notes
+BEIO,2026-09-15,FY2026,Ordinary income (incl. net short-term capital gain),0.9412,Federal income tax,Form 1099-DIV planning,"Reflects straddle loss deferrals (IRC 1092), wash-sale deferrals and REIT/MLP recharacterisations"
+BEIO,2026-09-15,FY2026,Long-term capital gain,0.3038,Federal income tax,Form 1099-DIV planning,
+BEIO,2026-09-15,FY2026,Return of capital,0.0000,Federal income tax,Form 1099-DIV planning,
+BEIO,2026-09-15,FY2026,Total (12 monthly distributions projected),1.2450,Federal income tax,Form 1099-DIV planning,Assumes October distribution at 0.1150; final character determined after 2026-10-31

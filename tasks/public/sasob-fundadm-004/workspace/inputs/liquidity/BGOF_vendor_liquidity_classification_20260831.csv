@@ -1,0 +1,26 @@
+fund_code,as_of,line_ref,isin,vendor_bucket,days_to_liquidate_est,model_inputs_date,model_note
+BGOF,2026-08-31,L01,USSCXVKV0348,Highly Liquid,1-3,2026-08-31,
+BGOF,2026-08-31,L02,USQZ2UF10175,Highly Liquid,1-3,2026-08-31,
+BGOF,2026-08-31,L03,FR75AN2LZWE5,Highly Liquid,1-3,2026-08-31,
+BGOF,2026-08-31,L04,JPV0DIAVF356,Highly Liquid,1-3,2026-08-31,
+BGOF,2026-08-31,L05,USJCIADL4254,Moderately Liquid,4-7,2026-08-31,
+BGOF,2026-08-31,L06,USWP1REN7321,Moderately Liquid,4-7,2026-08-31,
+BGOF,2026-08-31,L07,US2DE02X2588,Moderately Liquid,4-7,2026-08-31,
+BGOF,2026-08-31,L08,USI4N6WD5154,Moderately Liquid,4-7,2026-08-31,
+BGOF,2026-08-31,L09,USIUL9Q67212,Highly Liquid,1-3,2026-08-31,
+BGOF,2026-08-31,L10,USSC9E6U3000,Moderately Liquid,4-7,2026-08-31,
+BGOF,2026-08-31,L11,US77LCL43391,Highly Liquid,1-3,2026-08-31,
+BGOF,2026-08-31,L12,US0FWF286381,Moderately Liquid,4-7,2026-08-31,
+BGOF,2026-08-31,L13,XSRF533ZRQ98,Moderately Liquid,4-7,2026-08-31,
+BGOF,2026-08-31,L14,USTO4PY79151,Less Liquid,>7 (settlement),2026-08-31,No market data; default bucket for unlisted preferred
+BGOF,2026-08-31,L15,USKL21J79614,Not modelled,,2026-08-31,Outside model coverage - Program classification applies
+BGOF,2026-08-31,L16,CA0AEKDO3599,Highly Liquid,1-3,2026-08-26,ADV based on trailing 20 trading days to 2026-08-26
+BGOF,2026-08-31,L17,USOBZX204611,Not modelled,,2026-08-31,Outside model coverage - Program classification applies
+BGOF,2026-08-31,L18,US5SSJ741239,Moderately Liquid,4-7,2026-08-31,
+BGOF,2026-08-31,L19,USMPKYMC2454,Less Liquid,>7 (settlement),2026-08-31,
+BGOF,2026-08-31,L20,US4UBUZE8716,Less Liquid,>7 (settlement),2026-08-31,
+BGOF,2026-08-31,L21,USD6DB1H5938,Moderately Liquid,4-7,2026-08-31,
+BGOF,2026-08-31,L22,GBX2Q1K0K9R8,Highly Liquid,1-3,2026-08-31,
+BGOF,2026-08-31,L23,N/A,Moderately Liquid,4-7,2026-08-31,
+BGOF,2026-08-31,L24,N/A,Highly Liquid,1-3,2026-08-31,
+BGOF,2026-08-31,L25,KYVCWHVLCTC4,Less Liquid,>7 (settlement),2026-08-31,

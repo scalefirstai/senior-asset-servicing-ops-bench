@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sabench"
+version = "0.1.0"
+description = "Harness for Senior Asset Servicing Ops Bench (SASOB)"
+requires-python = ">=3.10"
+license = {text = "Apache-2.0"}
+dependencies = ["pyyaml>=6", "jsonschema>=4.18"]
+
+[project.scripts]
+sabench = "sabench.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["sabench*"]

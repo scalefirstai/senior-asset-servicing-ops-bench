@@ -1,0 +1,6 @@
+ref,fund,project,payer,fee_type,amount_usd,status,date_received,received_by,applied_to_installment,notes
+FI-IV-0001,GACP IV,Project Osprey,Wrenfield Industrial Holdings Inc,BREAK_UP_FEE,495750.00,RECEIVED,2026-08-14,Granite Arch Management LP,,Exclusivity terminated by seller 2026-08-07
+FI-IV-0002,GACP IV,Project Osprey,Wrenfield Industrial Holdings Inc,EXPENSE_REIMBURSEMENT,118400.00,RECEIVED,2026-08-14,Granite Arch Management LP,,Reimbursement of Manager-paid diligence travel and third-party QoE costs
+FI-IV-0003,GACP IV,Project Lanternfly,Halberd Precision Components Inc,TRANSACTION_FEE,1100000.00,EXPECTED,,Granite Arch Management LP,,Payable at closing per engagement letter; closing scheduled 2026-10-20
+FI-IV-0004,GACP IV,Project Lanternfly,Halberd Precision Components Inc,MONITORING_FEE,300000.00,EXPECTED,,Granite Arch Management LP,,Annual fee under MSA; first payment 2027-01-15
+FI-IV-0005,GACP IV,Project Lanternfly,Halberd Precision Components Inc,DIRECTORS_FEE,0.00,N/A,,,,Board seats held by GA principals; directors' fees waived per MSA

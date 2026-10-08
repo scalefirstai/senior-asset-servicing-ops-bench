@@ -1,0 +1,4 @@
+- Whole-of-fund means everything contributed and everything already distributed, since inception.
+- The pref is a dated, compounded hurdle. Build it cash flow by cash flow.
+- Read the catch-up clause for both its split and its target.
+- Not every dollar the GP receives is carry, and not all carry goes to the GP's account.

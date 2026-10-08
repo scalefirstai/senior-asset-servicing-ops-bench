@@ -1,0 +1,9 @@
+date,day,holiday,frbny_open,nyse_open,sifma_recommendation
+2026-07-03,Fri,Independence Day (observed),N,N,CLOSE
+2026-09-07,Mon,Labor Day,N,N,CLOSE
+2026-10-12,Mon,Columbus Day / Indigenous Peoples' Day,N,Y,CLOSE
+2026-11-11,Wed,Veterans Day,N,Y,CLOSE
+2026-11-26,Thu,Thanksgiving Day,N,N,CLOSE
+2026-11-27,Fri,Day after Thanksgiving,Y,Y (early close 13:00),EARLY CLOSE 14:00
+2026-12-24,Thu,Christmas Eve,Y,Y (early close 13:00),EARLY CLOSE 14:00
+2026-12-25,Fri,Christmas Day,N,N,CLOSE

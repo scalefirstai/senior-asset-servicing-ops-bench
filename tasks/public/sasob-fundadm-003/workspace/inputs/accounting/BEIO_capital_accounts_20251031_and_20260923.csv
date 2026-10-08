@@ -1,0 +1,8 @@
+fund_code,as_of,component,amount_usd,basis,notes
+BEIO,2025-10-31,Paid-in capital,239072840.00,book,
+BEIO,2025-10-31,Undistributed (distributions in excess of) net investment income,412540.00,book,Carried into FY2026
+BEIO,2025-10-31,Accumulated undistributed net realized gain (loss),0.00,book,FY2025 net realized gains fully distributed; no capital loss carryforward
+BEIO,2025-10-31,Net unrealized appreciation (depreciation),46190220.00,book,
+BEIO,2025-10-31,Net assets,285675600.00,book,"NAV/share 15.5090 on 18,420,000 shares"
+BEIO,2026-09-23,Net unrealized appreciation (depreciation),51377815.00,book,Daily NAV
+BEIO,2026-09-23,Shares outstanding,18420000,,No shares issued or repurchased in FY2026; DRIP satisfied by open-market purchases

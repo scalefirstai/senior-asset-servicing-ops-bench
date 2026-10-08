@@ -1,0 +1,4 @@
+ssi_id,beneficiary,purpose,bank,account_ref,callback_verified,effective_from,status
+SSI-II-001,"Granite Arch Capital Partners II, L.P.",Partnership operating account,Halcyon Trust Services,4471-2201,Y,2015-06-30,ACTIVE
+SSI-II-014,"Granite Arch GP II, LLC",GP operating account,First Calder Bank N.A.,00-771934-2,Y,2019-03-01,ACTIVE
+SSI-II-015,"Granite Arch Capital Partners II, L.P. - Carry Escrow",Carry Escrow Account (LPA 9.6),Halcyon Trust Services,4471-2290,Y,2015-06-30,ACTIVE

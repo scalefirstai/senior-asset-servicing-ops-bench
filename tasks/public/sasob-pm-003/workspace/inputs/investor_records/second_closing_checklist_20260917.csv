@@ -1,0 +1,4 @@
+partner_id,partner_name,subscription_docs,aml_kyc,side_letter,gp_countersignature,target_closing,last_update,comment
+LP-0206,Tamsin Bay Insurance Company,COMPLETE,CLEARED 2026-09-04,EXECUTED 2026-09-11,READY,2026-09-30,2026-09-14,Wire instructions verified by call-back 2026-09-14
+LP-0207,Ostrander County Firefighters' Retirement Fund,COMPLETE,CLEARED 2026-09-09,NONE,READY,2026-09-30,2026-09-15,Board approval minute received
+LP-0208,"Sable Point Private Markets Access Fund, L.P.",COMPLETE,OPEN - UBO certification outstanding,DRAFT,NOT SIGNED,2026-12-15,2026-09-16,Moved to third closing per O. Blackwood email 2026-09-16

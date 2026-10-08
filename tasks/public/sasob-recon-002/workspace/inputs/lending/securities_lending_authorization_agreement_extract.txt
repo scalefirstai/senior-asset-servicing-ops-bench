@@ -1,0 +1,34 @@
+SECURITIES LENDING AUTHORIZATION AGREEMENT (EXTRACT)
+between TIDEWELL FUNDS TRUST, on behalf of each series listed in Schedule A (each a "Lender"),
+and HARROWGATE SECURITIES FINANCE LLC (the "Lending Agent")
+Dated 2024-03-11, as amended 2025-10-01.  Schedule A includes Tidewell Multi-Asset Income Fund.
+
+4. OWNERSHIP AND RECORDS
+4.1 Securities on loan remain the property of the Lender for all purposes other than voting and the
+    receipt of distributions directly from the issuer. The Lender continues to bear the market risk of,
+    and to report as its investments, all Loaned Securities.
+4.2 Loaned Securities are delivered out of the Lender's custody account at Northgate Trust Company to
+    the Borrower and will not appear in the Custodian's statements of holdings while on loan. The
+    Lending Agent will provide the Lender and its administrator a daily on-loan report as of close of
+    business, showing open loans, loans returned that day and loans agreed but not yet delivered.
+4.3 A loan is "open" from the date the Loaned Securities are delivered to the Borrower until the date
+    they are redelivered to the Custodian. A loan with status PENDING_DELIVERY has not left the
+    custody account.
+
+6. DISTRIBUTIONS AND CORPORATE ACTIONS
+6.1 The Borrower shall pay the Lender substitute payments equal to any cash distributions paid on
+    Loaned Securities during the loan.
+6.2 VOTING. Voting rights on Loaned Securities pass to the Borrower for the term of the loan. The
+    Lender may terminate a loan (a "recall") at any time in order to vote. The Lending Agent does not
+    monitor proxy events on the Lender's behalf.
+
+7. TERMINATION OF LOANS
+7.1 The Lender (or the Adviser on its behalf) may recall all or part of any loan by written notice to
+    the Lending Agent. Recall notices received by 11:00 a.m. New York time on a business day are
+    communicated to the Borrower that day; the Borrower must redeliver within the standard settlement
+    cycle for the security in its principal market (currently T+1 for U.S. equities), counted from
+    the day the notice is communicated.
+7.2 The Lender acknowledges that to be the holder of record on a meeting record date, recalled
+    securities must be settled back into the custody account on or before that record date. Borrower
+    fails are possible; the Lending Agent recommends recall notices be given at least three business
+    days before the record date where the vote is considered material.
